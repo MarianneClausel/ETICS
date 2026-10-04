@@ -1,1 +1,1 @@
-This repository contains the material of the XAI course of the ETICS 2026 research school
+This repository contains the material of the **XAI & Causality** course of the [ETICS 2026 research school](https://uq.math.cnrs.fr/etics). Each folder contains the course, associated notebooks and a bibliography
