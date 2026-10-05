@@ -10,6 +10,6 @@ Bibliography
   - A survey of algorithms and a taxonomy : [Chen 2023](https://arxiv.org/abs/2207.07605v1)
 - Specific models
   - The original TreeSHAP : [Lundberg 2019](https://arxiv.org/abs/1905.04610) and [github](github.com/suinleelab/treeexplainer-study)
-  - Tutorial and improvement : [Laberge 2022](https://arxiv.org/abs/2209.15123v2) and [github](github.com/gablabc/Understand_TreeSHAP 
+  - Tutorial and improvement : [Laberge 2022](https://arxiv.org/abs/2209.15123v2) and [github](github.com/gablabc/Understand_TreeSHAP) 
   - DeepSHAP : [Chen 2022](https://arxiv.org/abs/2105.00108v2)
   
